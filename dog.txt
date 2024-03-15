@@ -2,3 +2,6 @@ FIRST COMMIT
 SECOND COMMIT
 THIRD COMMIT
 FOURTH COMMIT
+mistaked typings
+that needs to be undone in dog
+second grade of mistake in dog
